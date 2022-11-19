@@ -31,7 +31,7 @@ main {
     padding: 50px 0;
     display: flex;
     align-items: center;
-    background:linear-gradient(rgba(0, 0, 0, 0.795), rgba(0, 0, 0, 0.692), #0002),url(../assets/img/bg-8.jpg) center/cover no-repeat;
+    background:linear-gradient(rgba(0, 0, 0, 0.795), rgba(0, 0, 0, 0.692), #0002),url(./bg-8.jpg) center/cover no-repeat;
 }
 
 main .c-heading {
