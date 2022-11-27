@@ -76,6 +76,7 @@ main .c-subheading {
     color: black;
     background: #EEE;
     border-color: #EEE;
+    border: 2px solid #eee;
 }
 
 .c-buttons a.premium:active {
